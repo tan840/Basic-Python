@@ -3,7 +3,7 @@ x = 20;
 y = 2.5;
 
 def addten(param1):
-	#do Staff
+	#do Stuff
 	if type(param1) != int:
 		print("Not an Integer")
 	else:
@@ -20,7 +20,7 @@ b=4.5
 
 
 def subThree(param2):
-	#do otherthing
+	#do other thing
 	if type(param2) !=int :
 		print("not an Integer")
 	else:
